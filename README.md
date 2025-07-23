@@ -92,4 +92,4 @@ I apply a critical QA mindset to ensure **functional, exploratory, and API cover
 
 ---
 
-_“Quality isn’t a checklist. It’s a habit. It’s how I work.”_
+_Quality isn’t a checklist. It’s a habit. It’s how I work._
