@@ -63,7 +63,7 @@ I apply a critical QA mindset to ensure **functional, exploratory, and API cover
 - Facilitating agile ceremonies (planning, review, retrospectives)  
 - Aligning QA strategy with user experience and business goals
 
-> *“My specialty is applying QA where it matters most: at the intersection of user experience, business value, and development flow.”*
+> *My specialty is applying QA where it matters most: at the intersection of user experience, business value, and development flow.*
 
 ---
 
