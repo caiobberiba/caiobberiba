@@ -1,35 +1,42 @@
-# 👋 Hey there, I’m Caio Bêribá  
 
-In the world of quality, I’m the guy who **turns bugs into breakthroughs and chaos into flow**.  
-Welcome to my GitHub, where **testing meets agility, curiosity meets code, and quality never takes a day off**. 🚀🔍  
+# 👋 Hey, I’m Caio Bêribá
 
-**QA Engineer | Scrum Master | Agile Quality Facilitator**  
-I bridge testing, agility, and product value. Transforming complex flows into predictable, and human‑centered software experiences.
+But in the quality universe, you can call me **The BugFlow Maestro** 🎯🧪
+Welcome to my GitHub — where quality engineering meets agility, innovation meets automation, and bugs? Well, they don't stand a chance.
+
+**QA Automation Engineer | Agile Quality Facilitator**  
+I bridge testing, agility, and product value — turning complex flows into predictable, human-centered software experiences.
 
 ---
 
 ## 🧠 About Me
 
-I’m a QA professional with a mechanical engineering background and a passion for building quality into every stage of development.  
-My approach combines **functional, exploratory, and API testing** with agile facilitation, ensuring not just bug-free releases, but products that truly work for people.  
+I’m a passionate Quality Assurance professional with a background in Mechanical Engineering and a drive to build test strategies that not only prevent defects, but **fuel innovation and trust**.
 
-Certified **Professional Scrum Master I** and fluent in English, I thrive in cross-functional teams, scaling quality practices and improving delivery flow in web and mobile solutions.
+Over the past years, I’ve:
+- Delivered **11+ web/mobile projects** that impacted over **70,000 users**  
+- Achieved **80% test coverage**, and reduced **post‑release bugs by 7%**  
+- Led QA strategies and agile ceremonies for startups and global products across compliance, onboarding, education, and R&D platforms  
+- Been certified **PSM I** and trained in **GenAI for QA**, applying tools like **Copilot, Cursor, and ChatGPT** to accelerate testing
+
+I thrive where **QA, agility and product mindset** intersect.
 
 ---
 
 ## 🚀 What I’m Working On Now
 
-### 🎵 Fill the Song (MVP Delivery in Progress)
+### 🎵 Fill the Song (in development)
 A gamified web platform to learn English through music.  
-- Leading QA and Scrum practices: lightweight DoD, test checklists, velocity tracking.  
-- Stabilizing code post-migration to React and prioritizing impactful bugs.  
-- Designing scoring logic and aligning sprints to deliver weekly value.
+I’m leading QA and Scrum here:
+- Establishing a lean Definition of Done, checklist-based testing and release pipelines  
+- Guiding sprints, refining scope, and stabilizing core gameplay logic  
+- Designing adaptive scoring and feedback logic for immersive UX
 
 ### 📚 Mentorship 2.0 — Júlio de Lima
-A career-shaping program advancing my skills in:  
-- Risk-based testing, API strategies, exploratory techniques.  
-- Automation tools: **Playwright, Cypress, Selenium, Robot Framework, Cucumber, Supertest, k6, JMeter, Postman**.  
-- Using **GenAI (Cursor, ChatGPT, Copilot)** to accelerate test design and coverage.
+A career-defining QA program focused on advanced strategies:  
+- Exploratory and risk-based testing; API testing; performance benchmarking  
+- Tools: Cypress · Playwright · Selenium · Robot · Cucumber · Postman · Supertest · k6 · JMeter  
+- Projects include REST API test automation with GenAI-powered design
 
 ---
 
@@ -37,50 +44,75 @@ A career-shaping program advancing my skills in:
 
 | Project | My Role & Impact | Highlights |
 |--------|------------------|------------|
-| **Global Compliance App** | Facilitated Scrum, improved sprint predictability by 10%, managed >200 test cases | 28k users • 3.6M challenges completed |
-| **Gamified Training App** | Managed defect lifecycle, reduced fix time by 14%, achieved 93% user adoption | 23k users • Jira • Exploratory QA |
-| **Inclusive Recruitment SaaS** | Built validation flows in Miro, reduced manual effort by 10%, boosted QA efficiency | 35k entries in 12 months |
-| **Agriculture Onboarding Platform** | Achieved 80% test coverage and <7% post-release defects | 700+ active users |
-| **R&D Innovation Projects** | Balanced risks and acceptance criteria (MoSCoW) for 250+ R&D initiatives | Notion • Agile QA support |
+| **Global Compliance App** | Facilitated Scrum and QA, managed >200 test cases | 28k users • 3.6M challenges completed |
+| **Gamified Learning App** | Reduced bug resolution time by 14% through triage | 23k users • 93% engagement |
+| **Inclusive Recruitment SaaS** | Built validation flows, improved QA throughput by 10% | 35k registrations |
+| **Agriculture Onboarding Platform** | Reached 80% test coverage and <7% post-release bugs | 700+ sales reps |
+| **R&D Innovation Hub** | Supported 250+ projects with BDD + agile QA practices | Notion · Jira · Risk-based validation |
 
 ---
 
-## 🧰 Languages and Tools
+## 🧰 Tech Stack & Frameworks
 
-**Languages:** JavaScript  
-**Testing Tools:** Cypress · Playwright · Selenium · Robot Framework · Postman · Supertest · k6 · JMeter · Cucumber
-**Agile & Collaboration:** Jira · Trello · Notion · Miro · Figma · GitHub Actions  
-**Other Skills:** Exploratory Testing · Risk Analysis · Agile Metrics (Velocity, WIP, Lead/Cycle Time)
+**Languages & Scripting**  
+JavaScript · Node.js · Gherkin · SQL
+
+**Test Automation & Execution**  
+Cypress · Playwright · Selenium · Robot Framework · Cucumber · Supertest · JMeter · k6 · Zephyr
+
+**API & Contract Testing**  
+Postman · REST · Mockoon · Swagger
+
+**Agile & DevOps**  
+Jira · GitHub Actions (CI/CD pipelines) · Azure DevOps · Risk-based Testing · Quality Metrics (Defect Rate, MTTR, Requirements Coverage, Pass Rate Regression) · Agile Metrics (Velocity, WIP, Lead Time)
+
+**AI-Augmented Testing**  
+ChatGPT · Copilot · Gemini · Driving AI-First Quality
+
+**Other Tools**  
+VSCode · Cursor · Miro · Notion · Figma · Trello
 
 ---
 
-## 👩‍💻 My Day-to-Day as a QA
+## 👨‍💻 My Day-to-Day as a QA
 
-I apply a critical QA mindset to ensure **functional, exploratory, and API coverage** across complex flows:  
-- Refining acceptance criteria with Product Owners  
-- Designing and executing regression and exploratory sessions  
-- Managing defects, validating integrations, and tracking sprint metrics  
-- Facilitating agile ceremonies (planning, review, retrospectives)  
-- Aligning QA strategy with user experience and business goals
+My specialty is applying QA where it matters most: at the intersection of **user experience, business value, and engineering flow**.
 
-> *My specialty is applying QA where it matters most: at the intersection of user experience, business value, and development flow.*
+- Translate requirements into clear acceptance criteria (BDD + Gherkin)  
+- Design and run exploratory + regression sessions  
+- Validate REST APIs, triage bugs, manage lifecycle in Jira  
+- Facilitate agile ceremonies (planning, review, retro)  
+- Track sprint metrics and align delivery with product strategy  
 
 ---
 
 ## 🌱 What I’m Learning
 
-- Scaling test automation (Playwright, Supertest) with GitHub Actions  
-- Leveraging AI to generate and prioritize test scenarios  
-- Designing risk-based strategies for high-impact areas  
-- Enhancing soft skills: facilitation, coaching, and cross-team communication
+- Scaling automation with GitHub Actions and Playwright  
+- Risk-based prioritization with GenAI support (Copilot, ChatGPT, Cursor)  
+- Leadership in QA strategy, facilitation and coaching  
+- CI/CD alignment and API contract testing in early-stage SaaS
 
 ---
 
 ## 🗣️ Ask Me About
 
-- Risk-based testing and agile QA practices  
-- Bridging QA, product, and business goals  
-- Scaling quality in early-stage startups  
+- Agile QA in fast-paced startups  
+- Building quality into exploratory & API testing  
+- GenAI for test design and coverage expansion  
+- Bridging QA and Product through BDD and delivery flow
+
+---
+
+## 🏆 GitHub Stats
+
+<p align="left">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=caiobberiba&show_icons=true&theme=radical&count_private=true&hide_title=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobberiba&layout=compact&langs_count=8&theme=radical" />
+</p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=caiobberiba&theme=radical&margin-w=10&margin-h=10&column=4" />
+</p>
 
 ---
 
@@ -88,7 +120,7 @@ I apply a critical QA mindset to ensure **functional, exploratory, and API cover
 
 - [LinkedIn](https://linkedin.com/in/caioberiba)  
 - [Medium](https://medium.com/@caioberiba)  
-- [GitHub](https://github.com/caiobberiba)
+- [GitHub](https://github.com/caiobberiba)  
 
 ---
 
