@@ -14,10 +14,10 @@ Let’s build products people trust.
 I’m a passionate Quality Assurance professional with a background in Mechanical Engineering and a drive to build test strategies that not only prevent defects, but **fuel innovation and trust**.
 
 Over the past years, I’ve:
-- Delivered **11+ web/mobile projects** that impacted over **70,000 users**
+- Delivered **11+ web/mobile global projects** that impacted over **70,000 users**
 - Achieved **80% test coverage**, and reduced **post‑release bugs by 7%**
 - Led QA strategies and agile ceremonies for startups and global products across compliance, onboarding, education, and R&D platforms
-- Been certified **PSM I** and trained in **GenAI-first mindset for QA**, applying tools like **Copilot, Cursor, and ChatGPT** to accelerate testing
+- Been certified **Professional Scrum Master I (PSM I)** and trained in **GenAI-first mindset for QA**, applying tools like **Copilot, Cursor, and ChatGPT** to accelerate testing
 
 I thrive where **QA, agility and product mindset** intersect.
 
@@ -54,7 +54,6 @@ I thrive where **QA, agility and product mindset** intersect.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql)
-![Markdown](https://img.shields.io/badge/Gherkin-22C55E?style=flat-square)
 
 ### 🛠 Project & Product
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
